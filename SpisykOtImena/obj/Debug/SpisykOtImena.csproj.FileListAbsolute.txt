@@ -1,0 +1,8 @@
+E:\Programming\Spisyci\SpisykOtImena\bin\Debug\SpisykOtImena.exe.config
+E:\Programming\Spisyci\SpisykOtImena\bin\Debug\SpisykOtImena.exe
+E:\Programming\Spisyci\SpisykOtImena\bin\Debug\SpisykOtImena.pdb
+E:\Programming\Spisyci\SpisykOtImena\obj\Debug\SpisykOtImena.csproj.AssemblyReference.cache
+E:\Programming\Spisyci\SpisykOtImena\obj\Debug\SpisykOtImena.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Spisyci\SpisykOtImena\obj\Debug\SpisykOtImena.csproj.CoreCompileInputs.cache
+E:\Programming\Spisyci\SpisykOtImena\obj\Debug\SpisykOtImena.exe
+E:\Programming\Spisyci\SpisykOtImena\obj\Debug\SpisykOtImena.pdb

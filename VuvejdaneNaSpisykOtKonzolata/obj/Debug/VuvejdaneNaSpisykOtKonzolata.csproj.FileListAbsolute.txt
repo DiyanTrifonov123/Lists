@@ -1,0 +1,8 @@
+E:\Programming\Spisyci\VuvejdaneNaSpisykOtKonzolata\bin\Debug\VuvejdaneNaSpisykOtKonzolata.exe.config
+E:\Programming\Spisyci\VuvejdaneNaSpisykOtKonzolata\bin\Debug\VuvejdaneNaSpisykOtKonzolata.exe
+E:\Programming\Spisyci\VuvejdaneNaSpisykOtKonzolata\bin\Debug\VuvejdaneNaSpisykOtKonzolata.pdb
+E:\Programming\Spisyci\VuvejdaneNaSpisykOtKonzolata\obj\Debug\VuvejdaneNaSpisykOtKonzolata.csproj.AssemblyReference.cache
+E:\Programming\Spisyci\VuvejdaneNaSpisykOtKonzolata\obj\Debug\VuvejdaneNaSpisykOtKonzolata.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Spisyci\VuvejdaneNaSpisykOtKonzolata\obj\Debug\VuvejdaneNaSpisykOtKonzolata.csproj.CoreCompileInputs.cache
+E:\Programming\Spisyci\VuvejdaneNaSpisykOtKonzolata\obj\Debug\VuvejdaneNaSpisykOtKonzolata.exe
+E:\Programming\Spisyci\VuvejdaneNaSpisykOtKonzolata\obj\Debug\VuvejdaneNaSpisykOtKonzolata.pdb

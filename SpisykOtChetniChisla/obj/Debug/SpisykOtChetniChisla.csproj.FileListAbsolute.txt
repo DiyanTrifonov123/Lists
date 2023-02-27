@@ -1,0 +1,8 @@
+E:\Programming\Spisyci\SpisykOtChetniChisla\bin\Debug\SpisykOtChetniChisla.exe.config
+E:\Programming\Spisyci\SpisykOtChetniChisla\bin\Debug\SpisykOtChetniChisla.exe
+E:\Programming\Spisyci\SpisykOtChetniChisla\bin\Debug\SpisykOtChetniChisla.pdb
+E:\Programming\Spisyci\SpisykOtChetniChisla\obj\Debug\SpisykOtChetniChisla.csproj.AssemblyReference.cache
+E:\Programming\Spisyci\SpisykOtChetniChisla\obj\Debug\SpisykOtChetniChisla.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Spisyci\SpisykOtChetniChisla\obj\Debug\SpisykOtChetniChisla.csproj.CoreCompileInputs.cache
+E:\Programming\Spisyci\SpisykOtChetniChisla\obj\Debug\SpisykOtChetniChisla.exe
+E:\Programming\Spisyci\SpisykOtChetniChisla\obj\Debug\SpisykOtChetniChisla.pdb
